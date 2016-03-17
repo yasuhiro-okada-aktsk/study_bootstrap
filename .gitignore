@@ -1,0 +1,7 @@
+
+node_modules
+web/style/app.css
+
+# IntelliJ
+.idea
+*.iml
