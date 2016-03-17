@@ -14,7 +14,7 @@
 環境 : mac
 
 1. node.js をインストール。
-  - [Node.js](https://nodejs.org/en/) : こちらのサイトから。
+  - [Node.js](https://nodejs.org/en/) : こちらのサイトから（トップに書かれているどのバージョンでも可）。
 1. ターミナルを起動
 1. 以下を入力
   - ```git clone https://github.com/yasuhiro-okada-aktsk/study_bootstrap.git```  + (enter)
